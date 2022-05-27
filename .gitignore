@@ -1,1 +1,5 @@
 .exe
+__pycache__
+inventory_mng/inventory_mng/__pycache__
+inventory_mng/web_app/__pycache__
+inventory_mng/inventory_mng/__pycache__/
